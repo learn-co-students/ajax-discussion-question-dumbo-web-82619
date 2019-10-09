@@ -3,4 +3,6 @@ console.log("CONTENT NOT YET LOADED!", fullname); //what will fullname evaluate 
 
 document.addEventListener("DOMContentLoaded", () => {
   console.log("CONTENT LOADED!");
+  let button = document.querySelector('button');
+  
 });
